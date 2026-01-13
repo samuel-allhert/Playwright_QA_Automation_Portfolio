@@ -4,7 +4,7 @@
 ```
 https://katalon-demo-cura.herokuapp.com/
 ```
-I applied Page Object Model (POM), i put the locator inside this folder
+I applied Page Object Model (POM), i put the locator divided per page inside this folder
 ```
 pages
 ```
