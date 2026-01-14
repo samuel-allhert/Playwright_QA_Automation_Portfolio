@@ -6,7 +6,7 @@ export class LoginPage{
     readonly fieldPassword: Locator;
     readonly textPleaseLogin: Locator;
     readonly loginButton: Locator;
-    readonly textNotifIncorrectCredentials;
+    readonly textNotifIncorrectCredentials: Locator;
 
     constructor(page: Page){
         this.page = page;
